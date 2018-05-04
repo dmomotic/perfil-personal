@@ -40,27 +40,27 @@
             <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav">
                 <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="#about">About</a>
+                <a class="nav-link js-scroll-trigger" href="#about">Información</a>
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="#skills">Skills</a>
+                <a class="nav-link js-scroll-trigger" href="#skills">Habilidades</a>
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="#experience">Experience</a>
+                <a class="nav-link js-scroll-trigger" href="#experience">Experiencia</a>
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="#education">Education</a>
+                <a class="nav-link js-scroll-trigger" href="#education">Estudios</a>
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="#achievements">Achievements</a>
+                <a class="nav-link js-scroll-trigger" href="#achievements">Logros</a>
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="#comments">Comments</a>
+                <a class="nav-link js-scroll-trigger" href="#comments">Comentarios</a>
                 </li>
             </ul>
             </div>
@@ -109,7 +109,7 @@
 
           <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="skills">
             <div class="my-auto">
-              <h2 class="mb-5">Skills</h2>
+              <h2 class="mb-5">Habilidades</h2>
 
               <div class="subheading mb-3">Lenguajes de Programación &amp; Herramientas</div>
               <ul class="list-inline list-icons">
@@ -153,7 +153,7 @@
 
           <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="experience">
             <div class="my-auto">
-              <h2 class="mb-5">Experience</h2>
+              <h2 class="mb-5">Experiencia</h2>
 
               <div class="resume-item d-flex flex-column flex-md-row mb-5">
                 <div class="resume-content mr-auto">
@@ -216,7 +216,7 @@
 
           <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="education">
             <div class="my-auto">
-              <h2 class="mb-5">Education</h2>
+              <h2 class="mb-5">Estudios</h2>
 
               <div class="resume-item d-flex flex-column flex-md-row mb-5">
                 <div class="resume-content mr-auto">
@@ -291,42 +291,46 @@
 
           <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="achievements">
             <div class="my-auto">
-              <h2 class="mb-5">Achievements</h2>
+              <h2 class="mb-5">Logros</h2>
               <p>Paticipación como colaborador en los congresos estudiantiles de COECYS con el tema Cloud Computing en el año 2016.</p>
             </div>
           </section>
 
           <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="comments">
             <div class="my-auto">
-              <h2 class="mb-5">Awards &amp; Certifications</h2>
-              <ul class="fa-ul mb-0">
-                <li>
-                  <i class="fa-li fa fa-trophy text-warning"></i>
-                  Google Analytics Certified Developer</li>
-                <li>
-                  <i class="fa-li fa fa-trophy text-warning"></i>
-                  Mobile Web Specialist - Google Certification</li>
-                <li>
-                  <i class="fa-li fa fa-trophy text-warning"></i>
-                  1<sup>st</sup>
-                  Place - University of Colorado Boulder - Emerging Tech Competition 2009</li>
-                <li>
-                  <i class="fa-li fa fa-trophy text-warning"></i>
-                  1<sup>st</sup>
-                  Place - University of Colorado Boulder - Adobe Creative Jam 2008 (UI Design Category)</li>
-                <li>
-                  <i class="fa-li fa fa-trophy text-warning"></i>
-                  2<sup>nd</sup>
-                  Place - University of Colorado Boulder - Emerging Tech Competition 2008</li>
-                <li>
-                  <i class="fa-li fa fa-trophy text-warning"></i>
-                  1<sup>st</sup>
-                  Place - James Buchanan High School - Hackathon 2006</li>
-                <li>
-                  <i class="fa-li fa fa-trophy text-warning"></i>
-                  3<sup>rd</sup>
-                  Place - James Buchanan High School - Hackathon 2005</li>
-              </ul>
+              <h2 class="mb-5">Comentarios</h2>
+
+              
+
+              <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                <div class="resume-content mr-auto">
+                  <asp:Label runat="server">Nombre</asp:Label>
+                  <asp:TextBox runat="server" Width="500" ID="txtNombre">
+                  </asp:TextBox>
+                </div>
+              </div>
+
+              <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                <div class="resume-content mr-auto">
+                  <asp:Label runat="server">Comentario</asp:Label>
+                  <asp:TextBox runat="server" TextMode="MultiLine" Width="500" ID="txtComentario">
+                  </asp:TextBox>
+                </div>
+              </div>
+
+              <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                <div class="resume-content mr-auto">
+                  <asp:Button runat="server" ID="btnSubmit" Text="Enviar" OnClick="btnSubmit_Click">
+                  </asp:Button>
+                </div>
+              </div>
+              
+              <div class="resume-item d-flex flex-column flex-md-row mb-5">
+                <div class="resume-content mr-auto">
+                  <asp:TextBox runat="server"  Enabled="false" TextMode="MultiLine" ID="txtComments" Width="500" Height="500"></asp:TextBox>
+                </div>
+              </div>
+
             </div>
           </section>
 
