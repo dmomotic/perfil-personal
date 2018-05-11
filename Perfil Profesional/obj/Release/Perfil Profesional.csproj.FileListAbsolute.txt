@@ -1,0 +1,59 @@
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\Perfil Profesional.dll.config
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\Perfil Profesional.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\Perfil Profesional.pdb
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\csc.exe
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\csc.exe.config
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\csc.rsp
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\csi.exe
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\csi.exe.config
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\csi.rsp
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.AppContext.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Console.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.IO.Compression.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.IO.Pipes.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Security.Claims.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Threading.Thread.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.ValueTuple.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Xml.XPath.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\vbc.exe
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\vbc.exe.config
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\vbc.rsp
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\VBCSCompiler.exe
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\obj\Release\Perfil Profesional.csproj.CoreCompileInputs.cache
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\obj\Release\Perfil Profesional.csproj.CopyComplete
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\obj\Release\Perfil Profesional.dll
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\obj\Release\Perfil Profesional.pdb
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\obj\Release\Perfil Profesional.csprojResolveAssemblyReference.cache
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\video\video.mp4

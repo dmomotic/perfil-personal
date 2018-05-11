@@ -68,6 +68,7 @@
   <ItemGroup>
     <Content Include=".gitignore" />
     <Content Include=".travis.yml" />
+    <Content Include="img\foto.jpg" />
     <Content Include="LICENSE" />
     <Content Include="package-lock.json" />
     <Content Include="package.json" />
@@ -131,6 +132,7 @@
     <Content Include="vendor\simple-line-icons\fonts\Simple-Line-Icons.woff2" />
     <Content Include="vendor\simple-line-icons\less\simple-line-icons.less" />
     <Content Include="vendor\simple-line-icons\scss\simple-line-icons.scss" />
+    <None Include="Properties\PublishProfiles\PerfilProfesional - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -144,7 +146,6 @@
     <Content Include="Global.asax" />
     <Content Include="gulpfile.js" />
     <Content Include="img\profile.jpg" />
-    <Content Include="index.html" />
     <Content Include="js\resume.js" />
     <Content Include="js\resume.min.js" />
     <Content Include="vendor\bootstrap\css\bootstrap-grid.css" />

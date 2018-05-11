@@ -51,8 +51,8 @@ C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\VBC
 C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\roslyn\VBCSCompiler.exe.config
 C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
 C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
-C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\obj\Debug\Perfil Profesional.csprojResolveAssemblyReference.cache
 C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\obj\Debug\Perfil Profesional.csproj.CoreCompileInputs.cache
 C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\obj\Debug\Perfil Profesional.csproj.CopyComplete
 C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\obj\Debug\Perfil Profesional.dll
 C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\obj\Debug\Perfil Profesional.pdb
+C:\Users\damon\source\repos\Perfil Profesional\Perfil Profesional\bin\video\video.mp4

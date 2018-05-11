@@ -29,9 +29,9 @@
     <form id="form1" runat="server">
         <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top" id="sideNav">
             <a class="navbar-brand js-scroll-trigger" href="#page-top">
-                <span class="d-block d-lg-none">Start Bootstrap</span>
+                <span class="d-block d-lg-none">Perfil Personal</span>
                 <span class="d-none d-lg-block">
-                    <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/profile.jpg" alt=""/>
+                    <img class="img-fluid img-profile rounded-circle mx-auto mb-2" src="img/foto.jpg" alt=""/>
                 </span>
             </a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
@@ -60,7 +60,7 @@
                 </li>
 
                 <li class="nav-item">
-                <a class="nav-link js-scroll-trigger" href="#comments">Comentarios</a>
+                <a class="nav-link js-scroll-trigger" href="#comments">Recomendaciones</a>
                 </li>
             </ul>
             </div>
@@ -139,7 +139,7 @@
                 </li>
               </ul>
 
-              <div class="subheading mb-3">Video</div>
+              <div class="subheading mb-3"></div>
               <ul class="fa-ul mb-0">
                 <li>
                   <i class="fa-li fa fa-check"></i>
@@ -148,6 +148,8 @@
                   <i class="fa-li fa fa-check"></i>
                   Desarrollo ágil &amp; control de versiones con git.</li>
               </ul>
+                <br />
+                <iframe width="560" height="315" src="https://www.youtube.com/embed/tw1fmxvIqkA?ecver=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
             </div>
           </section>
 
@@ -298,9 +300,7 @@
 
           <section class="resume-section p-3 p-lg-5 d-flex flex-column" id="comments">
             <div class="my-auto">
-              <h2 class="mb-5">Comentarios</h2>
-
-              
+              <h2 class="mb-5">Recomendaciones</h2>
 
               <div class="resume-item d-flex flex-column flex-md-row mb-5">
                 <div class="resume-content mr-auto">

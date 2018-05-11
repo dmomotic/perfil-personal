@@ -28,7 +28,8 @@ namespace Perfil_Profesional
                 return;
             }
 
-            string connectionString = "Server=DESKTOP-3TL1QMV\\SQLEXPRESS;Database=Seminario;Trusted_Connection=True;";
+            //string connectionString = "Server=DESKTOP-3TL1QMV\\SQLEXPRESS;Database=Seminario;Trusted_Connection=True;";
+            string connectionString = "Server=tcp:seminario1.database.windows.net,1433;Initial Catalog=seminario1;Persist Security Info=False;User ID=seminario;Password=admin123456$;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
             SqlConnection con = new SqlConnection(connectionString);
             con.Open();
             try
@@ -56,7 +57,8 @@ namespace Perfil_Profesional
         protected void actualizarComentarios()
         {
             txtComments.Text = "";
-            string connectionString = "Server=DESKTOP-3TL1QMV\\SQLEXPRESS;Database=Seminario;Trusted_Connection=True;";
+            //string connectionString = "Server=DESKTOP-3TL1QMV\\SQLEXPRESS;Database=Seminario;Trusted_Connection=True;";
+            string connectionString = "Server=tcp:seminario1.database.windows.net,1433;Initial Catalog=seminario1;Persist Security Info=False;User ID=seminario;Password=admin123456$;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
             SqlConnection con = new SqlConnection(connectionString);
             SqlCommand command = new SqlCommand("SELECT nombre, comentario FROM dbo.Comentario", con);
             con.Open();
